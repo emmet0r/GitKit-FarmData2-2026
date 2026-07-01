@@ -39,8 +39,8 @@
     ]
   },
   {
-    "title": "Fix \"comonent\" Typo",
-    "body": "Change \"comonent\" to \"component\" in the phrase \"A typical comonent test will:\" at the end of the first paragraph under \"Component Tests\" in the \"Cypress\" section of the `ONBOARDING.md` document.",
+    "title": "Fix \"component\" Typo",
+    "body": "Change \"component\" to \"component\" in the phrase \"A typical component test will:\" at the end of the first paragraph under \"Component Tests\" in the \"Cypress\" section of the `ONBOARDING.md` document.",
     "labels": [
       "documentation",
       "Typos",
